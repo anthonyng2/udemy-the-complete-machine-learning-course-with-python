@@ -71,7 +71,7 @@
 | Lecture 69  | kNN Introduction ||
 | Lecture 70  | k-Nearest Neighbour Concepts |0802.zip|
 | Lecture 71  | kNN and IRIS demo |0803.zip|
-| Lecture 72  | Distance Metric |0804.zip|
+| Lecture 72  | Distance Metric ||
 | Lecture 73  | Project Cancer Detection 1 |0805.zip|
 | Lecture 74  | Project Cancer Detection 2 |0806.zip|
 | Lecture 75  | Introduction ||
